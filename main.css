@@ -44,3 +44,20 @@ button:hover {
     color: #fff;
     display: none;
 }
+
+.error-message {
+    font-size: 12px;
+    padding: 8px;
+    background-color: rgb(247, 7, 7);
+    color: #fff;
+    margin-bottom:8px;
+    display: none;
+}
+
+input.error{
+    color: rgb(247, 7, 7);
+    border-color: rgb(247, 7, 7);
+    outline-color: rgb(247, 7, 7);
+
+
+}
